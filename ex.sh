@@ -1,0 +1,1 @@
+./run.sh -i Lucsin.iso -m 1G -h Filesystem.vhdx
